@@ -1,0 +1,217 @@
+body {
+  height: 2500px;
+  background-color: rgb(179, 178, 178);
+}
+.c {
+    display: block;
+    background-size: cover;
+    background-position: center;
+    background-image: url("Pacdora.png");
+    height: 30%;
+   
+}
+header {
+    display: block;
+    background-color: rgb(179, 178, 178);
+
+    /* Add padding to the top and bottom of the header */   
+   
+    text-decoration: wavy;
+    color: rgb(150, 121, 58);
+   height: 6%;
+}
+ header a:link, a:visited {
+    background-color: rgb(179, 178, 178);
+    color: rgb(150, 121, 58);
+        padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+  }
+  
+ header a:hover, a:active {
+    background-color: rgb(103, 98, 98);
+
+  }
+  nav {
+    display: block;
+    background-color: rgb(179, 178, 178);
+    padding: 10px 0;
+    text-decoration: wavy;
+    color: rgb(150, 121, 58);
+    margin-left: 70%;}
+h1 {
+    color: #ffffff;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 10px 0;
+   
+}
+header div {
+   margin-left: 3%;
+text-size-adjust: 30px;    padding: 10px 0;
+
+margin-top: 20px;
+text-transform: uppercase;
+
+}
+
+div{
+    display: inline-block;
+}
+.g{
+    width:40%;
+    height: 3%;
+    float: left;
+}
+.h{
+    margin-left: 45%;
+    width:60%;
+    height: 3%;
+    float: left;
+}
+.j{
+    width: 400px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: rgb(179, 178, 178);
+}
+.m{
+    border-radius: 15px;
+    background-color: rgb(179, 178, 178);
+
+}
+button{
+    background-color: rgb(103, 137, 181);
+    color: rgb(249, 249, 249);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+}
+input:hover{
+    background-color:whitesmoke;
+}
+textarea:hover{
+    background-color:whitesmoke;
+}
+footer{
+    
+    background-color: rgb(138, 136, 136);
+    margin-top: 900px;
+    height: 10%;
+    text-decoration: wavy;
+    color: rgb(50, 35, 0);
+    font-size: 20px;
+}
+section img{
+    width: 250px;
+    height: 280px;
+    margin-left: 31px;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+footer div{
+    margin-left: 3%;
+    text-size-adjust: 30px;    
+    margin-left:50%;    
+    }
+footer a:link{
+    background-color: rgb(138, 136, 136);
+    color: rgb(255, 255, 255);
+        padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+  }
+  footer a:visited{
+    background-color: rgb(138, 136, 136);
+    color: rgb(255, 255, 255);
+
+        padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+  } 
+  label{
+     font-size: 15px;
+font-weight: bold;
+text-decoration: wavy ; 
+}
+.footer{
+    background-color: rgb(138, 136, 136);
+    margin-top: 150px;
+    height: 9%;
+    text-decoration: wavy;
+    color: rgb(50, 35, 0);
+    font-size: 20px;
+}
+.footer1{
+    background-color: rgb(138, 136, 136);
+    margin-top: 250px;
+    height: 9%;
+    text-decoration: wavy;
+    color: rgb(50, 35, 0);
+    font-size: 20px;
+}
+.f{
+
+    width: 375px;
+    height:500px;
+    float: left;
+   background-color: rosybrown;
+    border-radius: 20px;
+   margin: 15px;
+   padding: 15px;
+}
+
+.l{
+    margin: 5px;
+    width:250px ;
+    text-align: center;
+    background-color:rgb(118, 104, 104) ;
+    margin-left: 28px;
+    color: white;
+
+}
+section form{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.l2{
+    text-align: center;
+    margin-top: 250px;
+  width: 150px;
+}
+.l:hover ,.l2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .l a:link,.l a:visited  ,.l a:hover,.l a:active{
+    color: white;
+    background-color:rgb(118, 104, 104) ;
+
+  }
+
+
+
+  nav a:link, a:visited  ,a:hover, a:active{
+    color: rgb(150, 121, 58);
+
+  }
+
+
+  .h1{
+    color:white;
+    margin:110px;
+    margin-left: 500px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: wavy;
+}
